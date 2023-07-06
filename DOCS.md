@@ -1,5 +1,8 @@
 # Assignment Title: E-commerce Development Task
 
+# Other Repo Link: https://github.com/vi-sha-kha/Shopping-Cart-using-React-js-andRedux-Toolkit
+# I moved out of this repo.. Refer to this repo to see the commit logs.
+
 ## TECHNOLOGIES USED
 
 1. Reactjs
