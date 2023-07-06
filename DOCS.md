@@ -6,7 +6,7 @@
 2. Redux toolkit
 3. Integrated the api: https://fakestoreapi.com/
 4. Used Bootstrap for styling
-5. Deployed on Netlify
+5. Deployed on Netlify: https://vishakha-online-store-react-redux.netlify.app/
 
 ## How to run the program locally
 
